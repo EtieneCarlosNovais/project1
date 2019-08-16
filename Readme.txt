@@ -1,0 +1,1 @@
+Este é o primeiro item de configuração do projeto "project1"
